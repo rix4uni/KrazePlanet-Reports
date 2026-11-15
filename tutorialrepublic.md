@@ -14,7 +14,6 @@ A Reflected Cross-Site Scripting (XSS) vulnerability exists in the `q` parameter
 <img width="1468" height="851" alt="image" src="https://github.com/user-attachments/assets/ba2fda19-db3e-4050-99ff-cde1017a0bea" />
 <img width="1474" height="506" alt="image" src="https://github.com/user-attachments/assets/437eb644-e2fd-464f-aa6c-35864007dc4a" />
 
-
 ## Impact
 - It allows attackers to hijack user session
 - It potentially leads to full account takeover
